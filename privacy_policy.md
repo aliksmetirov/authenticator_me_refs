@@ -16,7 +16,6 @@ By using Authenticate ME, you agree to the collection and use of information in 
 
 We may collect non-personal information to improve the App's functionality and user experience. This includes:
 
-- **Device Information:** Such as device model and operating system version.
 - **Usage Data:** Information on how you interact with the App, including the features you use and the time spent on the App.
 
 ## Permissions We Use
